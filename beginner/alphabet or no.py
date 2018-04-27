@@ -1,4 +1,4 @@
-x=raw_input()
+x=str(raw_input())
 print(x)
 if(x>='a'):
     print"Alphabet"
